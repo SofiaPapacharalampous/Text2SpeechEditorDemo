@@ -2,6 +2,6 @@
 The demo for the Text2SpeechEditor project.
 
 Team:
-Rodopi Kosteli, AM 3263 \n
+Rodopi Kosteli, AM 3263 
 Sofia Papacharalampous, AM 3312
 Efpraxia Tsilikoudi, AM 3353
